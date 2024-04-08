@@ -20,8 +20,8 @@ module.exports = {
 
 	langs: {
 		en: {
-			turnedOn: 'Il est temps de vous clasher😈!',
-			turnedOff: 'Pereu fils de pute🖕!',
+			turnedOn: 'Il est temps de vous clasher à la maniere HAITANI😈!',
+			turnedOff: 'Tu as tellement peur de moi que tu me met off fils de pute🖕!',
 			chatting: 'Already Chatting with 𝗟𝗢𝗙𝗧...',
 			error: 'Tu ne sais pas écrire?🙂'
 		}
