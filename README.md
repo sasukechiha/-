@@ -2,6 +2,9 @@
 <h1 align="center"><img src="https://i.ibb.co/2sZGgK1/image.jpg" width="50px"> Goat Bot - Bot Chat Messenger</h1>
 
 <img src="https://i.ibb.co/2MFV1Kn/image.jpg" alt=banner">
+<h1 align="center"><img
+src="https://i.ibb.co/2MFV1Kn/image.jpg" width="50px"> compte du bot
+a voir sur facebook </h1> 
 
 <p align="center">
 <h1 ✨😷𝙷𝙰𝙸𝚃𝙰𝙽𝙸 𝙱𝙾𝚃 𝙲𝚁𝙴𝙰𝚃𝙾𝚁✨☄️>
