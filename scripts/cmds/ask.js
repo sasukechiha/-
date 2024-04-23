@@ -35,13 +35,18 @@ module.exports = {
       const answer = response.data.answer;
 
  
-    await message.reply({ body: `➬👻.༐⸙ 𝗚𝗛𝗢𝗦𝗧 ༐⸙..❤️‍🔥..✰
+    await message.reply({ body: `➬👻.༐⸙ 𝗚𝗛𝗢𝗦𝗧 ༐⸙..❤‍🔥..✰
+▭▭▭▭▭▭▭▭▭▭▭▭
+
+
 ${answer}
-━━━━━━━━━━━━━`,
+
+
+▢▢▢✞྿..𝗛𝗔𝗜𝗧𝗔𝗡𝗜..྿✞▢▢▢`,
 });
 
    } catch (error) {
       console.error("Error:", error.message);
     }uw
   }
-}
+      }
