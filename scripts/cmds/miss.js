@@ -1,15 +1,15 @@
 module.exports = {
   config: {
-    name: "miss",
-    aliases: ["miss"],
+    name: "golden",
+    aliases: ["gold"],
     version: "1.0",
-    author: "Loid Butter | merdi madimba",
+    author: "Loid Butter | haitani du toman",
     countDown: 10,
     role: 0,
     shortDescription: "Play miss, the oldest gambling game",
     longDescription: "Play miss, the oldest gambling game, and earn money",
     category: "game",
-    guide: "{pn} <soy/luna> <amount of money>"
+    guide: "{pn} <state/warrior> <amount of money>"
   },
 
   onStart: async function ({ args, message, usersData, event }) {
@@ -19,11 +19,11 @@ module.exports = {
     const userData = await usersData.get(event.senderID);
 
     if (!["soy", "luna"].includes(betType)) {
-      return message.reply("😴𝐕𝐞𝐢𝐥𝐥𝐞𝐳 𝐩𝐫𝐞́𝐜𝐢𝐬𝐞𝐫, 𝙡𝙪𝙣𝙖 | 𝙨𝙤𝙮'.");
+      return message.reply("🔥choisi entre, state | warrior.");
     }
 
-    if (!Number.isInteger(betAmount) || betAmount < 1000) {
-      return message.reply("⏳𝐋𝐞 𝐦𝐨𝐧𝐭𝐚𝐧𝐭 𝐝𝐨𝐢𝐭 𝐞̂𝐭𝐫𝐞 𝟏𝟎𝟎𝟎 𝐨𝐮 𝐩𝐥𝐮𝐬.");
+    if (!Number.isInteger(betAmount) || betAmount < 500) {
+      return message.reply("⏳𝐋𝐞 𝐦𝐨𝐧𝐭𝐚𝐧𝐭 𝐝𝐨𝐢𝐭 𝐞̂𝐭𝐫𝐞 500 𝐨𝐮 𝐩𝐥𝐮𝐬.");
     }
 
     if (betAmount > userData.money) {
