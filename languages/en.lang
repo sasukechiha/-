@@ -91,18 +91,18 @@ handlerCheckData.cantCreateUser=Users with id '%1' cannot be written to the data
 # bot/handler/handlerEvents.js
 handlerEvents.userBanned=You have been banned from using the bot\n» Reason: %1\n» Time: %2\n» User ID: %3
 handlerEvents.threadBanned=This group has been banned from using the bot\n» Reason: %1\n» Time: %2\n» Thread ID: %3
-handlerEvents.onlyAdminBox=This group is currently enabled only group administrators can use the bot
+handlerEvents.onlyAdminBox=This group is currently enabled only group administrators can use the bot \n________________________ \n✰..𝐓𝐎𝐌𝐎𝐔𝐑𝐀..✰
 handlerEvents.onlyAdminBot=❌ | 𝘥𝘴𝘭 𝘮𝘢𝘪𝘴 𝘴𝘦𝘶𝘭 𝘮𝘰𝘯 𝘣𝘰𝘴𝘴 𝘱𝘦𝘶𝘵 𝘶𝘵𝘪𝘭𝘪𝘴𝘦𝘳 𝘭𝘦 𝘣𝘰𝘵 𝘢𝘤𝘵𝘶𝘦𝘭𝘭𝘦𝘮𝘦𝘯𝘵 \n______________ \n✰..𝗧𝗢𝗠𝗢𝗨𝗥𝗔..✰ \n_____________________
 handlerEvents.commandNotFound=𝙻𝙰 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝙴🤌🏻 𝚀𝚄𝙴 𝚃𝚄 𝚅𝙴𝚄𝚃 𝚄𝚃𝙸𝙻𝙸𝚂𝙴𝚁 𝙽'𝙴𝚇𝙸𝚂𝚃𝙴✨ 𝙿𝙰𝚂 \n____________________ \n💙𝙴𝙲𝚁𝙸𝚃 𝙹𝚄𝚂𝚃𝙴 +help \n____________________ \n✰..𝗧𝗢𝗠𝗢𝗨𝗥𝗔..✰
 handlerEvents.commandNotFound2=➳..𝗧𝗢𝗥𝗘𝗞𝗜..✰ \n__________________________ \n💫..𝙵𝙻𝙰𝚂𝙷..𝙸𝙽𝙵𝙾𝚂📲 \n________________________ \n𝐁𝐎𝐓..𝐏𝐒𝐄𝐔𝐎➳: ✰..𝗧𝗢𝗠𝗢𝗨𝗥𝗔..✰ \n________________________ \n𝐁𝐎𝐓..𝐏𝐑𝐄𝐅𝐈𝐗➳:【+】 \n________________________ \n𝐂𝐑𝐄𝐀𝐓𝐄𝐔𝐑➳ : \n✰..𝗧𝗢𝗠𝗢𝗨𝗥𝗔..✰ \n________________________ \n𝐂𝐑𝐄𝐀𝐓𝐄𝐔𝐑..𝐋𝐈𝐄𝐍 : \nhttps://www.facebook.com/profile.php?id=61551989415558 \n________________________ \n✰..𝗧𝗢𝗠𝗢𝗨𝗥𝗔..✰
-handlerEvents.commandSyntaxError=𝐀𝐓𝐓𝐄𝐍𝐓𝐈𝐎𝐍..❌ \nThe command you are using is wrong syntax, please type %1help %2 to see the details of how to use this command \n________________________ \n𝐌𝐄𝐑𝐂𝐈 ✅
+handlerEvents.commandSyntaxError=𝐀𝐓𝐓𝐄𝐍𝐓𝐈𝐎𝐍..❌ \n𝙻𝙰 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝙴 𝚀𝚄𝙴 𝚃𝚄 𝚅𝙴𝚄𝚇 𝚄𝚃𝙸𝙻𝙸𝚂𝙴𝚁 𝙴𝚂𝚃 𝚄𝙽 𝙿𝙴𝚄 𝙳𝙸𝙵𝙵𝙸𝙲𝙸𝙻𝙴 𝙳𝙾𝙽𝙲 𝙿𝙾𝚄𝚁 𝙼𝙸𝙴𝚄𝚇 𝙲𝙾𝙼𝙿𝚁𝙴𝙽𝙳𝚁𝙴 𝙴𝙲𝚁𝙸𝚃 𝙹𝚄𝚂𝚃𝙴 %1𝙷𝙴𝙻𝙿 %2 𝙿𝙾𝚄𝚁 𝚅𝙾𝙸𝚁 𝙻𝙴𝚂 𝙳𝙸𝙵𝙵𝙴𝚁𝙴𝙽𝚃𝙴𝚂 𝙿𝙰𝚁𝚃𝙸𝙴𝚂 \n________________________ \n𝐌𝐄𝐑𝐂𝐈 ✅
 handlerEvents.onlyAdmin=❌ | Only group administrators can use the command "%1" \n_________________________ \n✰..𝗧𝗢𝗠𝗢𝗨𝗥𝗔..✰
 handlerEvents.onlyAdminToUseOnReply=❌ | Only group administrators can use the reply function of the command "%1" \n________________________ \n✰..𝗧𝗢𝗠𝗢𝗜𝗥𝗔..✰
 handlerEvents.onlyAdminToUseOnReaction=❌ | Only group administrators can use the reaction function of the command "%1" \n_____________________ \n✰..𝗧𝗢𝗠𝗢𝗨𝗥𝗔..✰
 handlerEvents.onlyAdminBot2=❌ | Only bot's admin can use the command "%1"
 handlerEvents.onlyAdminBot2ToUseOnReply=❌ | Only bot's admin can use the reply function of the command "%1"
 handlerEvents.onlyAdminBot2ToUseOnReaction=❌ | Only bot's admin can use the reaction function of the command "%1"
-handlerEvents.waitingForCommand=🤯🤯..𝗪𝗔𝗜𝗧..📲 \n 𝒄𝒂𝒍𝒎𝒆 𝒕𝒐𝒊 𝒖𝒃 𝒃𝒐𝒏 𝒂𝒕𝒕𝒆𝒏𝒅 𝒅𝒂𝒏𝒔..➳ %1s \n✰..𝗧𝗢𝗠𝗢𝗨𝗥𝗔..✰
+handlerEvents.waitingForCommand=🤯🤯..𝗪𝗔𝗜𝗧..📲 \n 𝒄𝒂𝒍𝒎𝒆 𝒕𝒐𝒊 𝒖𝒃 𝒃𝒐𝒏 𝒂𝒕𝒕𝒆𝒏𝒅 𝒅𝒂𝒏𝒔..➳ %1𝚂 \n________________________\n✰..𝗧𝗢𝗠𝗢𝗨𝗥𝗔..✰\n________________________
 handlerEvents.errorOccurred=❌ [ %1 ]\nAn error occurred at command "%2"\n\n%3
 handlerEvents.errorOccurred2=❌ [ %1 ]\nAn error occurred at command onChat in command "%2"\n\n%3
 handlerEvents.errorOccurred3=❌ [ %1 ]\nAn error occurred when executing onReply at command "%2"\n\n%3
