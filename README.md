@@ -1,9 +1,9 @@
 <img src="https://i.ibb.co/pQkRgYz/image.jpg" alt="banner">
-<h1 align="center"><img src="https://i.ibb.co/2sZGgK1/image.jpg" width="50px"> Goat Bot - Bot Chat Messenger</h1>
+<h1 align="center"><img src="https://i.ibb.co/GtXbXv5/image.jpg" width="50px"> Goat Bot - Bot Chat Messenger</h1>
 
 <img src="https://i.ibb.co/2MFV1Kn/image.jpg" alt=banner">
 <h1 align="center"><img
-src="https://i.ibb.co/2MFV1Kn/image.jpg" width="50px"> compte du bot
+src="https://i.ibb.co/GtXbXv5/image.jpg" width="50px"> compte du bot
 a voir sur facebook </h1> 
 
 <p align="center">
