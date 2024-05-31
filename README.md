@@ -10,7 +10,7 @@ a voir sur facebook </h1>
 <h1 ✰..𝗧𝗢𝗠𝗢𝗨𝗥𝗔..✰..➳𝙿𝚁𝙾𝙹𝙴𝚃💦📲>
 <p>✨😷 ᴊᴇ ᴠᴏᴜꜱ ᴅᴏɴɴᴇ ʟ'ᴀᴜᴛᴏʀɪꜱᴀᴛɪᴏɴ ᴅᴇ ꜰᴏʀᴋᴇʀ ᴍᴏɴ ʙᴏᴛ ᴍᴀɪꜱ ꜱᴠᴩ ɴᴇ ᴄʜᴀɴɢᴇᴢ ᴩᴀꜱ ʟᴇꜱ ɴᴏᴍꜱ ᴅᴇꜱ ᴀᴜᴛᴇᴜʀꜱ ᴄ'ᴇꜱᴛ ᴀ ᴅɪʀᴇ ᴍᴏɪ ᴇᴛ ᴍᴇꜱ ᴄᴏʟʟᴀʙᴏʀᴀᴛᴇᴜʀꜱ </p>
 
-<P> ᴩᴏᴜʀ ᴩʟᴜꜱ ᴅ'ɪɴꜰᴏꜱ ᴠᴏɪᴄɪ ᴍᴏɴ ʟɪᴇɴ ꜰᴀᴄᴇʙᴏᴏᴋ : https://www.facebook.com/profile.php?id=61551989415558 </p>
+<P> salut moi c'est tomoura bienvenue pour plus d'informations contact moi: https://www.facebook.com/profile.php?id=61551989415558 </p>
 
 <h2  ➳..𝗧𝗢𝗥𝗘𝗞𝗜..✰..𝐅𝐀𝐌𝐈𝐋𝐘 >
 <P> SI VOUS SOUHAITER INTEGRER NOTRE FAMILLE FACEBOOK CONTACTER MOI </P>
